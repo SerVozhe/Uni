@@ -1,0 +1,23 @@
+body {
+  background-color: #eaf6f6;
+}
+
+img {
+  size: 50%;
+  border-radius: 100%;
+}
+
+hr {
+  /*background-color: silver;*/
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+  border-width: 5px;
+
+
+}
+
+h1,h3 {
+  color: #66bfbf;
+}
